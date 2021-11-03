@@ -1,0 +1,6 @@
+﻿  实验8.c
+  实验9.c
+E:\代码库\实验报告\实验9.c(6,1): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+Debug\实验12.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  实验报告.vcxproj -> E:\代码库\实验报告\Debug\实验报告.exe
